@@ -6,7 +6,7 @@ package student_win22_tue;
 
 public class StudentList {
   public static void main(String[] args) {
-      student[]studentList=new student[4];
+      student[]studentList=new student[3];
       studentList[0]=new student("s1", "Safa Atout");
       studentList[1]=new student("s2", "Shadi Albustami");
       studentList[2]=new student("s3", "Husni Albustami");
